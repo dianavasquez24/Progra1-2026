@@ -9,14 +9,21 @@
 using namespace std;
 int main()
 {
-    float precio_producto , IVA= 0.13 , precio_IVA=0;
-    system ("cls");
+    int edad;
+    system("cls");
 
-    cout<<"Ingresar el precio del producto: "; cin >> precio_producto;
+    cout << "Ingresar edad: "; cin >> edad;
+    if ( edad>=18 && edad<=25 )
+    {
+        cout << "Se encuentra en el rango de [18-25]";
+    }
+    else
+    {
+       cout <<"No se encuentra en el rango de [18-25]"; 
+    }
+    
+    
 
-    precio_IVA = precio_producto -( precio_producto*IVA );
-
-    cout <<"\nPrecio aplicando el IVA: " <<precio_IVA;
 
     return 0;
 }
