@@ -1,7 +1,8 @@
-// Materia: Programación I, Paralelo 4 
-// Autor: Diana Ninoska Vasquez Benitez 
-// Carnet: 8913110
-// Fecha creación: 27/02/2026
+//  Materia: Programación I, Paralelo 4
+//  Autor: Diana Ninoska Vasquez Benitez
+//  Carnet: 8913110
+//  Carrera del estudiante:Ing. Multimedia e interactividad digital 
+//  Fecha creación: 27/02/2026
 
 #include <iostream>
 #include <cstdlib>
