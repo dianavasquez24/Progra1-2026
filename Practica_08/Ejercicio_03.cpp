@@ -8,6 +8,7 @@
 #include <vector>
 #include <cstdlib>
 #include <ctime>
+
 using namespace std;
 
 int GenerarAleatorio(int LimInferior, int LimSuperior);
@@ -34,7 +35,9 @@ int main() {
 
 int GenerarAleatorio(int LimInferior, int LimSuperior)
 {
-    return (rand() % (LimSuperior - LimInferior + 1)) + LimInferior;
+    int aleatorio = 0;
+    aleatorio = ( rand() % ( LimSuperior - LimInferior + 1) ) + LimInferior;
+    return aleatorio;
 }
 
 vector<int> GenerarCalificaciones(int n)
