@@ -1,0 +1,16 @@
+Nombre: Diana
+Edad: 21
+Promedio: 80.8
+
+Nombre: Ki
+Edad: 15
+Promedio: 30
+
+Nombre: Cami
+Edad: 22
+Promedio: 74.05
+
+Nombre: Juan
+Edad: 45
+Promedio: 99.999
+

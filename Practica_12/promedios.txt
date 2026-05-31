@@ -1,0 +1,15 @@
+Juan 7.875
+Ana 8.25
+Luis 6.25
+Maria 9.25
+Carlos 5.75
+Sofia 8.575
+Diego 7.125
+Paula 9.525
+Fernando 5.175
+Elena 8.4
+Ricardo 6.575
+Laura 8.125
+Jorge 5.625
+Gabriela 9.425
+Andres 6.5
